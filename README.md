@@ -6,6 +6,13 @@
 ![Screenshot (13)](https://github.com/sumeetpatil01/Blood-Bank-Management-System/assets/136491586/34da3e50-5f02-4eae-bf3a-095c9fce4494)
 #Admin Login Page
 ![Screenshot (14)](https://github.com/sumeetpatil01/Blood-Bank-Management-System/assets/136491586/826ba15d-eb54-4092-b34f-90d6133602d4)
+#Donor Dashboard
+![Screenshot (15)](https://github.com/sumeetpatil01/Blood-Bank-Management-System/assets/136491586/c612ff49-c533-4311-8b74-8212929d9825)
+#Patient Dashboard
+![Screenshot (16)](https://github.com/sumeetpatil01/Blood-Bank-Management-System/assets/136491586/57531913-2833-4896-89ee-203e323d1435)
+
+
+
 
 
 
